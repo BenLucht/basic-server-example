@@ -77,7 +77,9 @@ Im Browser sollte nun formatierter, roter Text zu lesen sein!
 
 ## Fazit
 
-Das sollte für den Moment erst mal an Informationen ausreichen. Funktionsfähiger Code befindet sich auch in den Dateien, die im Text als Referenz angegben sind (die Dateien heißen nicht alle ```test.js```, weil das schnell verwirrend würde, die funktionalität bleibt aber die selbe, wenn man ```node Dateiname.js``` in der Konsole/im Terminal eingibt). Wenn es Fragen gibt, dann kommt einfach in Slack oder im nächsten Meetup auf euren Mentor zu und fragt nach. Bis dahin viel Spaß beim ausprobieren!
+Das sollte für den Moment erst mal an Informationen ausreichen. Funktionsfähiger Code befindet sich auch in den Dateien, die im Text als Referenz angegben sind (die Dateien heißen nicht alle ```test.js```, weil das schnell verwirrend würde, die funktionalität bleibt aber die selbe, wenn man ```node Dateiname.js``` in der Konsole/im Terminal eingibt). Es macht auch Sinn mal in die Dateien zu schauen, da sind noch ein paar Tricks und hilfreiche Tipps enthalten. Wenn es Fragen gibt, dann kommt einfach in Slack oder im nächsten Meetup auf euren Mentor zu und fragt nach. Bis dahin viel Spaß beim ausprobieren!
+
+Ben
 
 # TODOs
 - [ ] Quellen finden und hinzufügen
