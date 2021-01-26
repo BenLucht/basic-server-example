@@ -3,7 +3,7 @@
 
 Wie kann ich mit JavaScript ein Backend aufziehen? Wie betreibe ich einen Server? 
 
-Als erstes braucht es einen Weg JS auf dem eigenen Rechner laufen zu lassen. Ursprünglich gab es nur genau eine Laufzeitumgebung für Javascript: den Browser. Dann kam vom Erfinder eine Umgebung für den PC. Darüber hinaus gibt es seit ein paar Jahren (seit 2009, also ein paar Jahre mehr) NodeJS (https://nodejs.org/en/), welches sich prinzipiell als Standard durchgesetzt hat. Das kann man im Grunde einfach wie ein normales Programm installieren (wenn irgendwo gefragt wird, ob man etwas zum "Pfad" hinzufügen will, dann ja klicken, dazu später mehr). 
+Als erstes braucht es einen Weg JS auf dem eigenen Rechner laufen zu lassen. Ursprünglich gab es nur genau eine Laufzeitumgebung für Javascript: den Browser. Dann kam vom Erfinder eine Umgebung für den PC. Darüber hinaus gibt es seit ein paar Jahren (seit 2009, also ein paar Jahre mehr) [NodeJS](https://nodejs.org/en/), welches sich prinzipiell als Standard durchgesetzt hat. Das kann man im Grunde einfach wie ein normales Programm installieren (wenn irgendwo gefragt wird, ob man etwas zum "Pfad" hinzufügen will, dann ja klicken, dazu später mehr). 
 
 ## Vorbereitungen - Test
 _```Zugehörige Datei 01_server.js```_
@@ -11,7 +11,7 @@ _```Zugehörige Datei 01_server.js```_
 Um auszuprobieren, ob alles geklappt hat, kann man ein kleines Beispiel ausprobieren. 
 
 Einfachste Methode meiner Meinung nach: 
-- VSCode installieren (https://code.visualstudio.com/download) 
+- VSCode [installieren](https://code.visualstudio.com/download) 
 - Neue Datei erstellen und den Namen ```test.js``` geben. 
 - In dieser Datei einfach ```console.log('test');``` eingeben und speichern. 
 - Unten in der linken Ecke des Fensters sind ein "x" und ein "Warndreieck". Darauf klicken. Es öffnet sich ein neues Panel mit den Optionen Problems, Output, Debug Console und Terminal. 
